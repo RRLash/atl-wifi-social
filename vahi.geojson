@@ -1,6 +1,20 @@
 {
- "type": "FeatureCollection",
- "features": [
-   
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manuel's Tavern",
+        "address": "602 North Highland Ave NE Atlanta, GA 30307",
+        "notes": "usually has plenty of space and is now smoke-free!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35271888971329,
+          33.77082228394275
+        ]
+      }
+    }
+  ]
 }
